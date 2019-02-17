@@ -6,6 +6,7 @@ parseInt() convert string into Integer(Number)
 
 for loops is use to repeat a number
  there are three things put in for loop.
-  declare datatype with value
-  condition
-  increment and decrement
+
+  *declare datatype with value
+  *condition
+  *increment and decrement
