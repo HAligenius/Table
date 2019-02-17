@@ -10,4 +10,5 @@ for loops is use to repeat a number
   * declare datatype with value
   * condition
   * increment and decrement
-  Document.write();
+
+    Document.write();
