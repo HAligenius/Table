@@ -12,3 +12,5 @@ for loops is use to repeat a number
   * increment and decrement
 
     Document.write();
+
+   this is use print any things 
