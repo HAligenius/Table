@@ -16,6 +16,7 @@ for loops is use to repeat a number
    this is use print any things 
 
    so now we use for loop like that
+   
     * for(i=1; i<=10; i++)
     {
     	document.write(a+"x"+i+"="+i*a+"<br>");
