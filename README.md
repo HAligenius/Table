@@ -1,1 +1,3 @@
-#How to create Table in Javascript
+# How to create Table in Javascript
+
+first we take a variable 
